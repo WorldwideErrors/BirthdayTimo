@@ -85,7 +85,7 @@ export default function Home() {
 
       <footer>
         <div className="text-center py-6 text-black font-cinzel">
-          &copy; 2025 Jeffrey van Tillo
+          2025 Jeffrey van Tillo
         </div>
       </footer>
     </div>
