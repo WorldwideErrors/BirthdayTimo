@@ -94,7 +94,7 @@ export default function SuccessPage() {
             Are you ready?
           </h1>
           <p className="text-xl md:text-3xl font-cinzel animate-slideUp text-white drop-shadow-md">
-            Let's continue the adventure!
+            Let&apos;s continue the adventure!
           </p>
         </div>
       )}
