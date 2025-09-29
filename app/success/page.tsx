@@ -162,7 +162,7 @@ export default function SuccessPage() {
     ))}
     <footer>
         <div className="text-center bg-black text-black py-6 ">
-          &copy; 2025 Jeffrey van Tillo
+          2025 Jeffrey van Tillo
         </div>
       </footer>
   </div>
